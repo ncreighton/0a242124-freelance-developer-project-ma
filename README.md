@@ -1,2 +1,30 @@
-# 0a242124-freelance-developer-project-ma
-End-to-end Notion workspace for freelance developers managing client projects, contracts, and payments. Includes a project tracker with milestone and deliverable checklists, client CRM with communication history, contract version library, invoice generator with payment status tracking, and a time log by project and task. Features a weekly capacity 
+# Freelance Developer Project Management Notion Template
+
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/4gM4gzfXxe2M7BCcDWcZa3V)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/4gM4gzfXxe2M7BCcDWcZa3V)
+- [Buy on Whop](https://whop.com/freelance-developer-project-management-notion-template)
+
